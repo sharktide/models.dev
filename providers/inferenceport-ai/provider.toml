@@ -1,0 +1,5 @@
+name = "InferencePort AI"
+npm = "@ai-sdk/openai-compatible"
+env = ["INFERENCEPORT_API_KEY"]
+doc = "https://docs.inferenceport.ai/en/latest/api/p2g-api.html" # InferencePort has multiple products, P2G API is explicitly linked
+api = "https://api.inferenceport.ai/v1"
